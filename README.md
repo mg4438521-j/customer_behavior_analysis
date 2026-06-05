@@ -33,9 +33,6 @@ Key Skills Demonstrated
 * Business Insights Generation
 
 Outcome
-
 Successfully transformed raw data into meaningful insights through data analysis, SQL querying, and interactive dashboard creation.
 
 
-Muskan Gupta
-Aspiring Data Analyst | Python | SQL | PostgreSQL | Power BI
